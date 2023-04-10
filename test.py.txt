@@ -1,0 +1,7 @@
+import numpy as np
+arr = np.array([1, 2, 3, 4, 5])
+print(arr)
+print(type(arr)) (#to check the type of array as it is list or tuple etc.)
+• import numpy as np
+arr = np.array((1, 2, 3, 4, 5)) #tuple is now used for collection of variables
+print(arr)
